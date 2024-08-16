@@ -33,7 +33,7 @@
     - [Pictory](#pictory)
     - [Designs.ai](#designsai-1)
     - [Wisecut](#wisecut)
-    - [Fliki AI](#fliki-ai)
+    - [Fliki AI](#fliki-ai)l
   - [Text to Video Papers](#text-to-video-papers)
     - [2023](#2023)
     - [2022](#2022)
